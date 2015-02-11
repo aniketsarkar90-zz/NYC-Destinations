@@ -1,0 +1,133 @@
+@charset "utf-8";
+.list_headings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #003;
+}
+h1 {
+	font-family: Arial, Helvetica, "sans-serif;";
+	font-size: 24px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+h2 {
+	font-family: Arial, Helvetica, "sans-serif;";
+	font-size: 18px;
+	font-weight: normal;
+}
+h3 {
+	font-family: Arial, Helvetica, "sans-serif;";
+	font-size: 16px;
+	font-weight: bold;
+}
+.body_text {
+	font-family: Arial, Helvetica, "sans-serif;";
+	font-size: medium;
+	color: #000;
+	font-weight: normal;
+	
+}
+.small_text {	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.img_left_float {
+	float: left;
+	border: thin solid #666;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.img_right_float {
+	float: right;
+	border: thin solid #666;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+body {
+	/*	background-color: #F1E2CF; */
+	
+	font-family: Arial, Helvetica, "sans-serif;";
+	background-image: url(assets/images/background_nyc.gif);
+}
+image {
+	vertical-align: bottom;
+}
+img_float_left {
+	float: left;
+}
+
+#share-buttons img{
+	width: 50px;
+	padding: 5px;
+	border: 0;
+	box-shadow: 0;
+	display: inline;
+	opacity:0.7;
+}
+
+#share-buttons img:hover {
+	opacity:1;
+}
+
+.socialmedia {
+    background-color: #585858;
+}
+.socialmedia p {
+    font-size: 25px;
+	font-family: Trebuchet MS;
+}
+
+nav {
+	height: 43px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 2px;
+}
+
+.sidebar1 h4 {
+	background-color: #799ac0;
+    border-bottom: 1px solid #799ac0;
+    color: #fff;
+    padding: 8px;
+    
+}
+
+.sidebar-content1 {
+    background-color: ##eeedeb;
+    padding: 3px;
+	box-shadow:0 1px 11px 2px #ccc;
+	margin-top: 10px;
+	margin-bottom:20px;
+}
+.copyright-footer {
+    background-color: #000;
+    padding-bottom: 10px;
+}
+.container-content1 {
+	background-color:#f7f5f5;
+    padding: 10px;
+	border:1px solid #ddd;
+	margin-top: 10px;
+	margin-bottom:5px;
+}
+.container-content1:hover {
+	background-color:#eeedeb;
+	box-shadow:0 4px 11px 2px #ccc;
+		
+}
+
+.container-content1 h4 {
+    color: #787373;
+}
+
+.container-content-main {
+    padding: 15px;
+}
+
+.hori-line {
+    color: #fff;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
